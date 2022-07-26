@@ -8,5 +8,6 @@
         "https://oss.sonatype.org/content/repositories/jetty-snapshots"
       ]
     }
-  ]
+  ],
+  "ignoreUnstable": false
 }
