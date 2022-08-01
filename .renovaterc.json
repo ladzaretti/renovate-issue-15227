@@ -9,5 +9,6 @@
       ]
     }
   ],
+  "baseBranches": ["dev","main"],
   "ignoreUnstable": false
 }
