@@ -10,7 +10,7 @@
     },
     {
       "matchBaseBranches": ["dev"],
-      "commitMessage": "{{{commitMessagePrefix}}} {{{commitMessageAction}}} {{{commitMessageTopic}}} {{{commitMessageExtra}}}"
+      "commitMessageSuffix": null
     }
   ],
   "baseBranches": ["dev","main"],
