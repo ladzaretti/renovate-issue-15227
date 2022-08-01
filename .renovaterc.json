@@ -10,7 +10,7 @@
     },
     {
       "matchBaseBranches": ["dev"],
-      "commitMessageSuffix": null
+      "commitMessageSuffix": "asdsd"
     }
   ],
   "baseBranches": ["dev","main"],
