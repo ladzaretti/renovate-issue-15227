@@ -10,7 +10,7 @@
     },
     {
       "matchBaseBranches": ["dev"],
-      "commitMessage": "{{{commitMessagePrefix}}} {{{commitMessageAction}}} {{{commitMessageTopic}}} {{{commitMessageExtra}}}";
+      "commitMessage": "{{{commitMessagePrefix}}} {{{commitMessageAction}}} {{{commitMessageTopic}}} {{{commitMessageExtra}}}",
       "commitMessageSuffix": "asdsd"
     }
   ],
