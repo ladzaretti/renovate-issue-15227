@@ -7,6 +7,10 @@
       "registryUrls": [
         "https://oss.sonatype.org/content/repositories/jetty-snapshots"
       ]
+    },
+    {
+      "matchBaseBranches": ["dev"],
+      "commitMessage": "{{{commitMessagePrefix}}} {{{commitMessageAction}}} {{{commitMessageTopic}}} {{{commitMessageExtra}}}"
     }
   ],
   "baseBranches": ["dev","main"],
